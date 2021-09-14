@@ -4,18 +4,19 @@ h1 {
     font-family: auto;
     font-size: 300%;
     text-align: center;
-    padding: 20px;
+    font-family: 'Akaya Kanadaka', cursive;
   }
 h2 {
     color: floralwhite;
     font-family: auto;
-    font-size: 200%;
+    font-size: 250%;
+    padding: 20px;
     text-align: center;
-    padding: 10px;
+    font-family: 'Akaya Kanadaka', cursive;
 }
 .links{
   display : block;
-  max-width: 600px;
+  max-width: 400px;
   margin: 0 auto 15 px;
   margin-bottom: 5px;
   text-align: center;
@@ -23,6 +24,7 @@ h2 {
   margin-left: auto;
   margin-right: auto
 }
+
   html,
   body {
     width: 100%;
