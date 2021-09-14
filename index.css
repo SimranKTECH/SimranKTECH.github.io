@@ -6,11 +6,23 @@ h1 {
     text-align: center;
     padding: 20px;
   }
-  
-  * {
-    border: none;
-    margin: 0;
-  }
+h2 {
+    color: floralwhite;
+    font-family: auto;
+    font-size: 200%;
+    text-align: center;
+    padding: 10px;
+}
+.links{
+  display : block;
+  max-width: 600px;
+  margin: 0 auto 15 px;
+  margin-bottom: 5px;
+  text-align: center;
+  margin: auto;
+  margin-left: auto;
+  margin-right: auto
+}
   html,
   body {
     width: 100%;
