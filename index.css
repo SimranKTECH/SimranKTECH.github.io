@@ -10,13 +10,12 @@ h2 {
     color: floralwhite;
     font-family: auto;
     font-size: 250%;
-    padding: 20px;
     text-align: center;
     font-family: 'Akaya Kanadaka', cursive;
 }
 .links{
   display : block;
-  max-width: 400px;
+  max-width: 300px;
   margin: 0 auto 15 px;
   margin-bottom: 5px;
   text-align: center;
@@ -39,4 +38,28 @@ h2 {
     border-radius: 100%;
     opacity: 0.7;
   }
+  .a
+  {
+    background-color: #d0e6e5;
+    font-family: 'Kaushan Script', cursive;
+  }
+  a.btn col btn-info:link {color:#ff0000;}
+  a.btn col btn-info:visited {color:#0000ff;}
+  a.btn col btn-info:hover {background:#66ff66;}
+  body, html {
+    height: 100%;
+    margin: 0;
+  }
   
+  .bg {
+    /* The image used */
+    background-image: url("pic.jpeg");
+  
+    /* Full height */
+    height: 100%; 
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
