@@ -1,0 +1,2 @@
+This a simple list of links that i have prepared using html and css, and used javascript for the background animation.
+This is my first website and i worked on it individually.
