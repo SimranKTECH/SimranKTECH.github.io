@@ -12,14 +12,14 @@ h2 {
     font-family: 'Akaya Kanadaka', cursive;
 }
 .links{
-  display : block;
+  /* display : block; */
   max-width: 300px;
-  margin: 0 auto 15 px;
-  margin-bottom: 5px;
-  text-align: center;
-  margin: auto;
-  margin-left: auto;
-  margin-right: auto
+  /* margin: 0 auto 15 px; */
+  /* margin-bottom: 5px; */
+  /* text-align: center; */
+  /* margin: auto; */
+  /* margin-left: auto; */
+  /* margin-right: auto */
 }
 
   html,
